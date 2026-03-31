@@ -6,7 +6,6 @@ I’m currently working on computer vision, classification tasks, and applied AI
 I’m currently learning advanced machine learning, deep learning architectures, and state-of-the-art AI methods.  
 I’m looking to collaborate on innovative AI projects, research-oriented work, and complex data challenges.  
 Ask me about Python, R, data analysis, AI/ML, and computer vision.  
-How to reach me: [Email](mailto:eyabouhmida@gmail.com)
 
 ### Tools and technologies
 **Programming:** Python, R, SQL  
